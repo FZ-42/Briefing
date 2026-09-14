@@ -1,0 +1,7 @@
+# Only the StaticCrypt output belongs in this repo. The plaintext briefing must never
+# be committed - this repo is PUBLIC and the plaintext would be readable by anyone.
+*.html
+!index.html
+source/
+.staticrypt.json
+node_modules/
